@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @blebelo
-- 👀 I’m interested in Biomechanics and Machine Learning
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Web development and Software Projects
-- 📫 How to reach me? Shoot me an email at tarr184pro@gmail.com
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: None
+# 👋 Hi, I'm Benny Lebelo (@blebelo)  
 
-<!---
-blebelo/blebelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Software Engineer | Aspiring Machine Learning & Biomechanics Enthusiast**  
+
+## 🚀 About Me  
+- 🎓 Currently learning **Software Engineering**  
+- 🌍 Passionate about **Web Development, Machine Learning, and Biomechanics**  
+- 🤝 Open to collaborating on **Software & Web Development Projects**  
+- 📬 Reach me at **tarr184pro@gmail.com**  
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mblebelo)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blebelo)  
+
+
+## 🛠️ Tech Stack  
+**Languages & Frameworks:**  
+- 🌐 **Frontend:** Next.js, Tailwind
+- ⚙️ **Backend:** .NET (C#), ASP.NET, Javalin & Springboot  
+- ☁️ **Cloud & Databases:** Google Cloud Storage  
+
+## 📌 Featured Projects  
+### 🌟 [Waste Sorting Application](https://github.com/blebelo/enviro365)  
+A Springboot API with an in-memory SQL database(H2) along with Swagger UI for endpoint testing and jUnit for testing.
+
+
+## 📊 GitHub Stats  
+![Benny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blebelo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blebelo&layout=compact&theme=radical)  
+
+## 📌 Fun Fact  
+> **“The only way to do great work is to love what you do.” – Steve Jobs**  
+
+🔗 **Let's connect and build something amazing!** 🚀  
