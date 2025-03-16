@@ -16,8 +16,8 @@
 ## 🛠️ Tech Stack  
 **Languages & Frameworks:**  
 - 🌐 **Frontend:** Next.js, Tailwind
-- ⚙️ **Backend:** .NET (C#), ASP.NET, Javalin & Springboot  
-- ☁️ **Cloud & Databases:** Google Cloud Storage  
+- ⚙️ **Backend:** .NET (C#), ASP.NET & Springboot
+- ☁️ **Cloud & Databases:** Google Cloud Storage, PostgresQL & Pandas  
 
 ## 📌 Featured Projects  
 ### 🌟 [Waste Sorting Application](https://github.com/blebelo/enviro365)  
