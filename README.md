@@ -17,7 +17,7 @@
 **Languages & Frameworks:**  
 - 🌐 **Frontend:** Next.js, Tailwind
 - ⚙️ **Backend:** .NET (C#), ASP.NET & Springboot
-- ☁️ **Cloud & Databases:** Google Cloud Storage, PostgresQL & Pandas  
+- ☁️ **Cloud & Databases:** Google Cloud Storage, PostgreSQL & ScyllaDB  
 
 ## 📌 Featured Projects  
 ### 🌟 [Waste Sorting Application](https://github.com/blebelo/enviro365)  
