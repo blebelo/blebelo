@@ -1,10 +1,20 @@
 # 👋 Hi, I'm Benny Lebelo (@blebelo)  
 
-💻 **Software Engineer | Aspiring Machine Learning & Biomechanics Enthusiast**  
+💻 **Software Engineer | Aspiring Machine Learning & Biomechanics Enthusiast** 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=blebelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 🥇 Special Recognitions
+- 🌟 **Open Source Contributor** - Contributing to community projects
+- 🚀 **Innovation Award** - Creative problem-solving in waste management
+- 💡 **Tech Enthusiast** - Exploring cutting-edge technologies
+- 🎯 **Full-Stack Developer** - Mastering both frontend and backend
+
 
 ## 🚀 About Me  
 - 🎓 Currently learning **Software Engineering**  
-- 🌍 Passionate about **Web Development, Machine Learning, and Biomechanics**  
+- 🔬 Exploring the intersection of **Software & Business Process Automation**
 - 🤝 Open to collaborating on **Software & Web Development Projects**  
 - 📬 Reach me at **tarr184pro@gmail.com**  
 
