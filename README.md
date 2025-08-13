@@ -1,15 +1,8 @@
 # 👋 Hi, I'm Benny Lebelo (@blebelo)  
 
-💻 **Software Engineer | Aspiring Machine Learning & Biomechanics Enthusiast** 
+💻 **Software Engineer | Machine Learning Enthusiast** 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=blebelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 🥇 Special Recognitions
-- 🌟 **Open Source Contributor** - Contributing to community projects
-- 🚀 **Innovation Award** - Creative problem-solving in waste management
-- 💡 **Tech Enthusiast** - Exploring cutting-edge technologies
-- 🎯 **Full-Stack Developer** - Mastering both frontend and backend
 
 
 ## 🚀 About Me  
@@ -25,9 +18,9 @@
 
 ## 🛠️ Tech Stack  
 **Languages & Frameworks:**  
-- 🌐 **Frontend:** Next.js, Tailwind
-- ⚙️ **Backend:** .NET (C#), ASP.NET & Springboot
-- ☁️ **Cloud & Databases:** Google Cloud Storage, PostgreSQL & ScyllaDB  
+- 🌐 **Frontend:** React, Next.js, Tailwind
+- ⚙️ **Backend:** .NET Core (C#), ASP.NET & Springboot
+- ☁️ **Cloud & Databases:** Google Cloud, Amazon S3, PostgreSQL & ScyllaDB, SQL Server  
 
 ## 📌 Featured Projects  
 ### 🌟 [Waste Sorting Application](https://github.com/blebelo/enviro365)  
